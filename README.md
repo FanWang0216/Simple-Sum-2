@@ -1,8 +1,5 @@
-Simple Sum 2 Colocalization Analysis
+Simple Sum 2 
 ================
-
-Simple Sum 2
-============
 
 Simple Sum 2 is a summary statistics-based colocalization tool that extends the frequently implemented **[Simple Sum method](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008007)** (Gong et al, 2019) to a flexible procedure (SS2) that integrates GWAS summary statistics with eQTL summary statistics across any number of gene-by-tissue pairs, is applicable when there are overlapping participants in the two studies and can be applied to GWAS summary statistics computed through meta-analysis, even with related individuals.
 
